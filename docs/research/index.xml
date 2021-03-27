@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meng Chen on Meng Chen Ph.D</title>
-    <link>https://nocturnezl.github.io/mengchen_website/</link>
-    <description>Recent content in Meng Chen on Meng Chen Ph.D</description>
+    <title>Research on Meng Chen Ph.D</title>
+    <link>https://nocturnezl.github.io/mengchen_website/research/</link>
+    <description>Recent content in Research on Meng Chen Ph.D</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nocturnezl.github.io/mengchen_website/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://nocturnezl.github.io/mengchen_website/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nocturnezl.github.io/mengchen_website/about/</guid>
-      <description>My name is Meng Chen, and I am an Assistant Professor in the Media Communications Department at Webster Vienna Private University (WVPU), Austria. I am also an affiliated faculty member at WVPU&amp;rsquo;s Department of Business and Marketing. ​ I obtained my Ph.D. in Health Communication from the University of California, Daivs (2018) and my M.A. in Mass Communication from the University of Houston (2011). I graduated with one B.A. in Chinese Literature &amp;amp; Linguistics from Beijing International Studies University (2009).</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://nocturnezl.github.io/mengchen_website/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Narrative Persuasion in Health Promotion</title>
       <link>https://nocturnezl.github.io/mengchen_website/research/narrative_persuation/</link>
@@ -43,26 +34,6 @@ Chen, M., Bell, R. A., &amp;amp; Barnett, G.</description>
       <guid>https://nocturnezl.github.io/mengchen_website/research/health_crisis/</guid>
       <description>The outbreak of COVID-19 has confronted the world with considerable political, economic, and public health crises, igniting heated debate in various fields worldwide. This project conducts a massive scale examination of COVID-19 media coverage from different perspectives and investigates how the media coverage impacts the epidemiological situation.
 Publications Chen, M., &amp;amp; Zhao, L. (In Progress). Linking media coverage of COVID-19 with incidence rate: A computational content analysis of COVID-19 news along cognition, affection, and behavior dimensions.</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://nocturnezl.github.io/mengchen_website/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nocturnezl.github.io/mengchen_website/teaching/</guid>
-      <description>教授课程：
-​ 韦伯斯特大学维也纳分校
-  大众及新媒体传播 （Media Foundation)
-  新媒体营销 (New Media Marketing)   传播学研究方法论 (Communication Research)
-  健康传播学 (Health Communication)
-  人际传播学 (Interpersonal Communication)
-  说服沟通学 (Persuasion)
-  社会科学统计导论 (Introduction to Social Science Statistics)
-  本科高阶科研 (Undergraduate Research Capstone)   加利福尼亚大学戴维斯分校
-  人际传播学 (Interpersonal Communication)
-  计算传播学 (Computational Social Science) (助教)
-  数字通信社会变革 (Digital Communication and Social Change)(助教)</description>
     </item>
     
   </channel>
