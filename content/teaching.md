@@ -26,4 +26,6 @@ title: Teaching
 - 数字通信社会变革 (Digital Communication and Social Change)(助教)
 
 
-​{{< bilibili BV1yJ411S7nc >}}
+​{{< bilibili BV1BK411c7ER >}}
+
+​{{< bilibili BV1CK411c7Ap >}}
