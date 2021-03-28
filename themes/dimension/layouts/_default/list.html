@@ -8,7 +8,7 @@
             <!-- Header -->
                 <header id="header">
                     <div class="logo">
-                        <a href="/mengchen_website/">
+                        <a href="/">
                             <!-- <span class="icon"> -->
                                 <img src="{{ .Params.logo }}" style="overflow: hidden; border-radius: 50%; max-width: 100%;">
                             <!-- </span> -->
@@ -49,7 +49,7 @@
                             {{if .Content }}
                                 <article id="{{ cond (in (.Title|urlize) "%") (.Title | base64Encode) (.Title) | urlize }}">
                                     <h2 class="major">{{ .Title }}</h2>
-                                    <span class="image main"><img src="{{ .Params.image }}" alt="" /></span>
+                                    <!-- <span class="image main"><img src="{{ .Params.image }}" alt="" /></span> -->
                                     {{ .Content }}
                                 </article>
                             {{ end }}
