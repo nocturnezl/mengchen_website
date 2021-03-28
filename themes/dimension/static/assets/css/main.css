@@ -1429,8 +1429,8 @@ input, select, textarea {
 				}
 
 				#header nav ul li a {
-					/* display: block; */
-					display: contents;
+					display: initial;
+					/* display: contents; */
 					min-width: 7.5rem;
 					/* height: 2.75rem; */
 					height: fit-content;
