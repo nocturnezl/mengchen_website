@@ -1735,13 +1735,13 @@ input, select, textarea {
 		}
 
 	#biliplayer {
-		width: 70%;
+		width: 90%;
 		height: 550px;
 		}
 		
 	@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
 		#biliplayer {
-			width: 70%;
+			width: 90%;
 			height: 250px;
 		}
 	}
