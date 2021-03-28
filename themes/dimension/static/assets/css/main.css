@@ -1431,7 +1431,8 @@ input, select, textarea {
 				#header nav ul li a {
 					display: block;
 					min-width: 7.5rem;
-					height: 2.75rem;
+					/* height: 2.75rem; */
+					height: fit-content;
 					line-height: 2.75rem;
 					padding: 0 1.25rem 0 1.45rem;
 					text-transform: uppercase;
